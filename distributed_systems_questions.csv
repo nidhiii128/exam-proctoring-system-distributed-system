@@ -1,0 +1,11 @@
+qno,question,optionsa,optionsb,optionsc,optionsd,correctansweroption
+1,"Which algorithm is used for mutual exclusion in distributed systems?","Ricart-Agrawala","Dijkstra's Algorithm","Bellman-Ford","Kruskal's Algorithm","a"
+2,"Which clock synchronization algorithm uses a master-slave approach?","Ricart-Agrawala","Berkeley Algorithm","Cristian's Algorithm","Vector Clocks","b"
+3,"What is the main goal of load balancing in distributed systems?","Increase latency","Distribute workload evenly","Reduce fault tolerance","Remove synchronization","b"
+4,"In replication, what does strong consistency ensure?","All replicas eventually update","Updates are visible immediately to all replicas","Only one replica updates","Replicas update randomly","b"
+5,"Which of the following is NOT a failure type in distributed systems?","Crash failure","Omission failure","Timing failure","Syntax failure","d"
+6,"Deadlock occurs when processes are waiting for resources in a ____ manner.","Circular","Linear","Random","Parallel","a"
+7,"Which approach is used in the Berkeley algorithm?","Coordinator polls all clocks","Nodes synchronize independently","Use of logical clocks only","Token-based synchronization","a"
+8,"Which system ensures fairness in distributed mutual exclusion?","Centralized approach","Token-based approach","Ricart-Agrawala","All of the above","b"
+9,"In distributed systems, replication improves ____.","Latency only","Availability and fault tolerance","Message overhead","System complexity","b"
+10,"Which of these is used to detect causality in distributed systems?","Lamport timestamps","Vector clocks","Physical clocks","Cristian's Algorithm","b"
