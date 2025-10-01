@@ -1,8 +1,6 @@
 
 # Exam Proctoring System-distributed-system
 
-# Final UI Exam Proctoring System
-
 A comprehensive full-stack web application demonstrating distributed systems concepts with exam proctoring features.
 
 ## 🚀 Features
